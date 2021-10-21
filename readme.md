@@ -2,7 +2,11 @@
 
 1 Crear cuenta en trello tiene que crear el tablero
 2 Tiene que crear las columnas
-3 Stories (criterios de aceptacion)
+3 Stories :
+Como [usuarios] deseo hacer movimientos en la cuenta.
+-Poder consultar el saldo
+-Agregar saldo a la cuenta
+-Transferir a otro usuario.
 
 homebanking
 
