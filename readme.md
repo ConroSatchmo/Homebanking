@@ -1,8 +1,7 @@
-#Lista de objetivos:
-
-1 Crear cuenta en trello tiene que crear el tablero
-2 Tiene que crear las columnas
-3 Stories :
+1 Crear cuenta en trello
+2 Crear el tablero
+3 Crear las columnas
+4 Crear Stories :
 Como [usuarios] deseo hacer movimientos en la cuenta.
 -Poder consultar el saldo
 -Agregar saldo a la cuenta
