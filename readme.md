@@ -2,7 +2,7 @@
 
 1 Crear cuenta en trello tiene que crear el tablero
 2 Tiene que crear las columnas
-Stories (criterios de aceptacion)
+3 Stories (criterios de aceptacion)
 
 homebanking
 
