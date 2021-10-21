@@ -8,15 +8,9 @@ Como [usuarios] deseo hacer movimientos en la cuenta.
 -Agregar saldo a la cuenta
 -Transferir a otro usuario.
 
-homebanking
-
-una lista de usuarios
-estos usuarios tienen que tener un ID (numero, alias, cbu), un nombre, un saldo, nombredeusuariounico, password.
-
-tiene que poder consultar el saldo.
-
-debe poder agregar saldo a la cuenta.
-
-debe poder trasnferir saldo a otro usuario.
-
-crear el repositorio de git.
+    Como [sistema] deseo tener una lista de usuarios para permitir operaciones
+        -Debe tener un ID
+        -Debe tener un nombre
+        -Debe tener un nombre de usuario
+        -Debe tener una constraseña
+        -Debe tener un saldo
